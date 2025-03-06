@@ -1,4 +1,4 @@
-## Jump to it!
+## Jump to it! 🏃
 
 <img src="dino.gif" alt="Hello world">
 
