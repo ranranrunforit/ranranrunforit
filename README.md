@@ -1,11 +1,6 @@
-## Hi there 👋
+## Jump to it!
 
 <img src="dino.gif" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ranranrunforit/count.svg" />
-</p>
 
 <!--
 **ranranrunforit/ranranrunforit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
