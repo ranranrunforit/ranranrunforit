@@ -1,4 +1,4 @@
-## Jump to it🏃‍♀️! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXljeDl2bDRhbTVxbDdkb2dhaXE4Z2hiMDJ6NXo0dzRxeTFwbTloeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/THD7thMQZoOYoyZ3EK/giphy.gif" width="50"> 
+## Jump to it ! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXljeDl2bDRhbTVxbDdkb2dhaXE4Z2hiMDJ6NXo0dzRxeTFwbTloeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/THD7thMQZoOYoyZ3EK/giphy.gif" width="30"> 
 
 <img src="dino.gif" alt="Hello world">
 
