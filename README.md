@@ -6,12 +6,6 @@
 
 <img src="dino.gif" alt="Hello world">
 
-<img src=".github/assets/trophy.svg" alt="Trophy">
-
-<p></p>
-
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Profile 3D Contribution">
-
 </div>
 <!--
 **ranranrunforit/ranranrunforit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
