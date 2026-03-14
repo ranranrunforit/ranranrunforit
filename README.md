@@ -1,7 +1,18 @@
-##<img src="https://emojis.slackmojis.com/emojis/images/1643508985/39092/cat-roll.gif?1643508985" width="30"/> Jump to it <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXljeDl2bDRhbTVxbDdkb2dhaXE4Z2hiMDJ6NXo0dzRxeTFwbTloeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/THD7thMQZoOYoyZ3EK/giphy.gif" width="30"> !
+<div align="center">
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643508985/39092/cat-roll.gif?1643508985" width="30"/> Jump to it <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXljeDl2bDRhbTVxbDdkb2dhaXE4Z2hiMDJ6NXo0dzRxeTFwbTloeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/THD7thMQZoOYoyZ3EK/giphy.gif" width="30"> !</h1>
+
+<p></p>
 
 <img src="dino.gif" alt="Hello world">
 
+<img src=".github/assets/trophy.svg" alt="Trophy">
+
+<p></p>
+
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Profile 3D Contribution">
+
+</div>
 <!--
 **ranranrunforit/ranranrunforit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
